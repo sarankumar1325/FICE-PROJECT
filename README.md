@@ -1,5 +1,4 @@
-// FICE-PROJECT
-//A C PROGRAM TO FIND THE ROOTS OF THE QUADRATIC EQUATION 
+ 
 #include <math.h>
 #include <stdio.h>
 int main() {
